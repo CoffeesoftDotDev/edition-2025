@@ -11,7 +11,7 @@
 - **Time**: 09:00 - 10:05
 - **Room**:  Yū (勇) – Courage (200)
 - **Type**: Keynote
-- **Language**: Français 
+- **Language**: Français
 - **Track**: IA
 - **Level**: Introductory
 
