@@ -60,6 +60,7 @@ DevDay est la plus grande conférence technologique en Belgique. L'édition 2025
 - [**31 - Feature Flag: la fin des mises en prod traditionnelles**](sessions/31-feature-flag-prod/README.md) - Michel Perfetti
 - [**33 - Gouverner l'IA avec Honneur : AI Gateway sur Azure**](sessions/33-gouverner-ia-honneur-gateway/README.md) - Nicolas Robert
 - [**38 - Zero-Code, Full Power: Building Secure Serverless Data APIs with Azure**](sessions/38-zero-code-full-power-serverless/README.md) - Massimo Crippa
+- [**21 - Optimize your event-driven architectures with Drasi**](sessions/21-optimize-event-driven-drasi/README.md) - Christophe Gigax
 
 ### .NET & Web Development
 
@@ -95,7 +96,6 @@ DevDay est la plus grande conférence technologique en Belgique. L'édition 2025
 - [**11 - Un sprint à Tokyo : voyage Agile au Japon**](sessions/11-sprint-tokyo-agile/README.md) - Anaïs Moulin
 - [**12 - Le moral comme KPI**](sessions/12-moral-kpi/README.md) - Bernard Ludovic
 - [**16 - Failure MUST be an option**](sessions/16-failure-must-be-option/README.md) - Olivier Breda
-- [**21 - Optimize your event-driven architectures with Drasi**](sessions/21-optimize-event-driven-drasi/README.md) - Christophe Gigax
 - [**35 - Low Code, No Pro Code… et pourtant, ça cartonne !**](sessions/35-low-code-no-pro-code/README.md) - Jeremy Laplaine
 - [**39 - Le Lean appliqué à la consommation d'énergie de votre ménage!**](sessions/39-lean-energie-menage/README.md) - Mathieu Gendaj
 
