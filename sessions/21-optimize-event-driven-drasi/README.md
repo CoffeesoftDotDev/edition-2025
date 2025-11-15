@@ -9,7 +9,7 @@
 
 - **Time**: 13:30 - 14:15 (45 min)
 - **Type**: Session
-- **Language**: English
+- **Language**: French
 - **Track**: Cloud, Architecture, Kubernetes
 - **Level**: Intermediate
 
@@ -20,17 +20,13 @@ Learn how to optimize event-driven architectures using Drasi. This session cover
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
+- Slides: [Optimiser vos architectures Event-driven avec Drasi](./Optimiser%20vos%20architectures%20Event-driven%20avec%20Drasi.pdf)
 
 ### Démos & Code
-- Demo: `[À ajouter par le speaker]`
+- Demo: [Curbside pickup](https://drasi.io/tutorials/curbside-pickup/)
 
 ### Références & Articles
-- Drasi: [À ajouter]
-
-## 📝 Notes
-
-[Notes du speaker sur la présentation]
+- Drasi: [Drasi official website](https://drasi.io/)
 
 ---
 
