@@ -6,7 +6,7 @@
   - Microsoft
 
 - **Emmanuelle Hemmer**
-  - Ippon Technologies, MVP
+  - Microsoft
 
 - **Adrien Clerbois**
   - Sense of Tech, MVP
@@ -32,7 +32,8 @@ Un spectacle interactif montrant GitHub Copilot en action! Découvrez comment ut
 - Slides: `[À ajouter par les speakers]`
 
 ### Démos & Code
-- Demo: `[À ajouter par les speakers]`
+- Demo: 
+  - [Julien - Cyberpunk Racer](./Julien-Cyberpunk-racer/) 
 
 ### Références & Articles
 - GitHub Copilot: https://github.com/features/copilot
