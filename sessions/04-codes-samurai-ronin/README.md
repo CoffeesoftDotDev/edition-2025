@@ -20,18 +20,8 @@ Découvrez deux philosophies de développement différentes et apprenez à ident
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
-
-### Démos & Code
-- Demo: `[À ajouter par le speaker]`
-
-### Références & Articles
-- Reference: [À ajouter par le speaker]
-
-## 📝 Notes
-
-[Notes du speaker sur la présentation]
-
+- Slides: [Slidedeck](Et%20toi%2C%20tu%20codes%20comme%20un%20samourai%20ou%20comme%20un%20ronin.pdf)
+  
 ---
 
 **Questions ou suggestions?** Ouvrez une [GitHub Issue](https://github.com/DevDayBe/edition-2025/issues) ou contactez directement le speaker.
