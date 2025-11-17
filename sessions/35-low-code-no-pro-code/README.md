@@ -3,7 +3,7 @@
 ## Speaker(s)
 
 - **Jeremy Laplaine**
-  - Power Platform MVP
+  - Scrum Master et expert Power BI / Power Platform
 
 ## Session Info
 
@@ -15,16 +15,20 @@
 
 ## Description
 
-Les solutions low-code et no-code prennent d'assaut le monde du développement. Jeremy explore comment ces technologies permettent à chacun de devenir développeur, les opportunités qu'elles offrent, et comment les intégrer dans votre stratégie IT.
+Et si l’agilité pouvait transformer vos projets Low Code… même dans une équipe sans culture Pro Code ? 
+Je vous embarque dans deux histoires vraies :
+- Comment un simple User Story Mapping et des Sprints ont métamorphosé une équipe éphémère en championne du delivery.
+- Comment une équipe métier noyée sous les rapports Power BI a gagné en qualité, en visibilité… et en sérénité.
+A travers ces deux exemples, nous explorererons les canevas d'opportunité, le user story mapping, la gestion du temps, les bonnes pratiques Teams afin d'embarquer des équipes sans aucune cultuire pro code.
 
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
-
+- Slides: https://bit.ly/DevDay25Jeremy
+    
 ### Démos & Code
-- Demo: `[À ajouter par le speaker]`
-
+- Modèle: Dans le dossier ainsi qu'en annexe des slides.
+  
 ### Références & Articles
 - Power Platform: https://learn.microsoft.com/en-us/power-platform/
 
