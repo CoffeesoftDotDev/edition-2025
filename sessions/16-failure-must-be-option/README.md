@@ -20,13 +20,8 @@ Discover why embracing failure is essential for innovation and growth. Olivier e
 ## 📚 Ressources
 
 ### Slides
-- Slides: `[À ajouter par le speaker]`
+- Slides: [Slidedeck](EN_Failure_MUST_be_an_option.pdf) - Origin : https://docs.google.com/presentation/d/118of-RshaE5iNsOly3ypJ4lgdGnq77xRZilJBvAd0MQ/edit?usp=sharing
 
-### Démos & Code
-- Demo: `[À ajouter par le speaker]`
-
-### Références & Articles
-- Reference: [À ajouter par le speaker]
 
 ## 📝 Notes
 
